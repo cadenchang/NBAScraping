@@ -1,0 +1,1 @@
+Scrapes NBA reference website for assist percentage and win percentage on 2006 NBA Champions Miami Heat. Using bayesian probability, predicts the teams win percentage when their assist percentage is above a certain threshold. Gleans insight to how the team should play: sharing the ball vs isolation plays.
